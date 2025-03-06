@@ -134,7 +134,11 @@ button:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    cursor: pointer; 
+
 }
+
+
 
 .riscar {
     text-decoration: line-through;
